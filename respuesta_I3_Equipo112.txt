@@ -1,0 +1,41 @@
+a-¿Como queda El master después de estos cambios? Quedan todos los archivos subidos en el master 
+b-¿Beta pudo ver todos los cambios que se realizaron? Si, los pudo ver y actualizar esos cambios en su repositorio local
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
+  498 git checkout main
+  499  git merge Quintana
+  500  git add .
+  501  git commit -m "cambios"
+  502  git push
+  503  git push origin main
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados? Si, se actualizan los datos
+
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+No tuvimos ningun conflicto. Lo unico es que no sabiamos los comandos para realizar el merge
+
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+   79  git checkout main
+   80  git pull
+   81  git checkout Quintana (rama creada)
+   82  echo "Matias Diaz" >> beta.txt
+   83  ipconfig
+   84  ipconfig >> beta.txt
+   85  echo "Hora: 12:45" >> beta.txt
+   86  cat beta.txt
+   87  git add .
+   88  git commit -m "modificacion beta.txt alfa"
+   89  git push
+
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+   79  git checkout main
+   80  git pull
+   81  git checkout Quintana
+   82  echo "Federico Corbalan" >> beta.txt
+   83  ipconfig
+   84  ipconfig >> beta.txt
+   85  echo "Hora: 12:45" >> beta.txt
+   86  cat beta.txt
+   87  git add .
+   88  git commit -m "modificacion beta.txt gamma"
+   89  git push
+
+
