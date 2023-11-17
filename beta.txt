@@ -1,0 +1,36 @@
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec°fico para la conexi¢n. . : bbrouter
+
+Adaptador de Ethernet Ethernet 3:
+
+   Sufijo DNS espec°fico para la conexi¢n. . : 
+   V°nculo: direcci¢n IPv6 local. . . : fe80::71da:936:d904:13e1%6
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M†scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal†mbrica Conexi¢n de †rea local* 9:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec°fico para la conexi¢n. . : 
+
+Adaptador de LAN inal†mbrica Conexi¢n de †rea local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec°fico para la conexi¢n. . : 
+
+Adaptador de LAN inal†mbrica Wi-Fi:
+
+   Sufijo DNS espec°fico para la conexi¢n. . : fibertel.com.ar
+   V°nculo: direcci¢n IPv6 local. . . : fe80::82b4:b61a:db32:e1c1%8
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.241
+   M†scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+12:38
+Manuel Quintana Mi√±o
